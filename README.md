@@ -4,6 +4,7 @@
 
 <h1 align="center">NexusForge</h1>
 <p align="center">
+  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Nothing-Just-a-Code/NexusForge/total?style=for-the-badge&label=Downloads)
   <strong>The intelligent archiver.</strong><br>
   Create <code>.nxs</code> archives that are smaller, safer, and smarter than traditional formats.
 </p>
