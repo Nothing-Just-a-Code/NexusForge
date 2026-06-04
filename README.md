@@ -313,7 +313,7 @@ See the `LICENSE` file for complete licensing terms.
 
 <p align="center">
 Made with 💖 by the <b>NJAC</b><br>
-<a href="https://njac.shop">nexusforge.com</a> •
+<a href="https://njac.shop">njac.shop</a> •
 <a href="mailto:support@njac.shop">support@njac.shop</a>
   <a href="mailto:njac@tuta.io">njac@tuta.io</a>
 </p>
